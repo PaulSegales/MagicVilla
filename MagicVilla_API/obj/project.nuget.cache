@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "l/19AklS9AYeec9x9yuKCN2tSPdCKHmtaSL224Pv4FrBzZyeAABq9j5wNNBbKx2FSUMO/N7Unt9hL8GlI1P0VQ==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\JeanPaul\\Documents\\C#\\MagicVilla\\MagicVilla_API\\MagicVilla_API.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "No se encuentra el paquete Microsoft.AspNetCore.OpenApi. No existe ningún paquete con este id. en los orígenes: C:\\Program Files\\dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.AspNetCore.OpenApi",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "No se encuentra el paquete Swashbuckle.AspNetCore. No existe ningún paquete con este id. en los orígenes: C:\\Program Files\\dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Swashbuckle.AspNetCore",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
+}
